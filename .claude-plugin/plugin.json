@@ -1,0 +1,20 @@
+{
+  "name": "react-skills",
+  "version": "1.0.0",
+  "description": "React ecosystem skills",
+  "author": {
+    "name": "PartMeAI",
+    "email": "partmeai@gmail.com"
+  },
+  "homepage": "https://github.com/full-statck-skills/react-skills",
+  "repository": "https://github.com/full-statck-skills/react-skills",
+  "source": "./",
+  "skills": [
+    "./skills/nextjs",
+    "./skills/react-hooks",
+    "./skills/react-native-project-creater",
+    "./skills/react-native",
+    "./skills/react",
+    "./skills/redux"
+  ]
+}
